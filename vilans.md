@@ -6,6 +6,7 @@
 
 ## Enderman
 - Poder: Teletransport i força elevada
+- Nova característica: S'enfurisma i ataca instantàniament si se'l mira directament als ulls; pot teletransportar-se per esquivar atacs a distància.
 - Objectiu: Robar blocs del món i atacar si se'l mira als ulls.
 
 ## Wither Skeleton
